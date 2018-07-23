@@ -77,7 +77,7 @@ Test for N way M shot: <br/>
 | **pretrain and fixed**         | 22.68 % / 19.25 % | 35.66 % / 30.75 % | 41.67 % / 42.25 % |
 
 1. The seed for choosing few-shot class is 1. <br/>
-2. Only run each experiment for 1 time, so the results are not very convincing. <br/>
+2. Only run each experiment for 1 time. Running it for multiple times can get more convincing results. <br/>
 3. Note that if increasing the layers of the model too much, end-to-end training might fail. Pretraining CNN-embedding layers can cure this problem. <br/>
 
 
